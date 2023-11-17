@@ -2,6 +2,8 @@
 
 RESPIRE is a system designed to make diverse data available through a single application. To accomplish this, RESPIRE uses a modular approach in which each data type is served by a REST API registered with a central registry API.
 
+For more detailed documentation, see the [RESPIRE Wiki](https://github.com/DartCF/respire/wiki)
+
 `respireAdmin` is provided as an interface to the underlying data, intended to simply routine data ingestion tasks.
 
 # About the `respireModule` class
